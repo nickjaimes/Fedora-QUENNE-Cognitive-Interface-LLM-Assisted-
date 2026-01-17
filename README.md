@@ -1,5 +1,3 @@
-# Fedora-QUENNE-Cognitive-Interface-LLM-Assisted-
-
 # Fedora-QUENNE Cognitive Interface (LLM-assisted)
 
 **An open, governance-first cognitive reasoning layer integrating Large Language Models
